@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AndroidBootcamp_HesapMakinesi" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+       <item name="colorPrimary">@null</item>
+    </style>
+
+    <style name="Theme.AndroidBootcamp_HesapMakinesi" parent="Base.Theme.AndroidBootcamp_HesapMakinesi" />
+</resources>
